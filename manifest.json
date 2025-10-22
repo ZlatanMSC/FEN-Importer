@@ -1,0 +1,10 @@
+{
+	"id": "fen-importer",
+	"name": "FEN Importer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A helper plugin to import FEN notation into chessboard code blocks for the Chessboard Viewer extension.",
+	"author": "ZlatanMSC",
+	"authorUrl": "https://github.com/ZlatanMSC/FEN-Importer",
+	"isDesktopOnly": false
+}
